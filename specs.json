@@ -1,0 +1,22 @@
+
+{
+  "specs": [
+    {
+      "title": "did:oidf Method Specification",
+      "spec_directory": "./spec",
+      "markdown_paths": [
+        "did-oidf-method-spec.md"
+      ],
+      "output_path": "./",
+      "logo": "specup_logo.png",
+      "logo_link": "https://github.com/FindyFi/did-oidf",
+      "source": {
+        "host": "github",
+        "account": "FindyFi",
+        "repo": "did-oidf"
+      },
+      "assets": [
+      ]
+    }
+  ]
+}
